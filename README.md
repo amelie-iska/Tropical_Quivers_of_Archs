@@ -11,7 +11,7 @@ Composing such modules yields *composed tropical spaces*: polyhedral atlases, tr
 This makes the geometry of composability explicit rather than hidden inside a global linear surrogate.
 
 For cyclic quivers we develop a joint *tropical-dynamical-ergodic* viewpoint.
-Activation itineraries define symbolic dynamics on cell complexes; max-plus and subadditive cocycles quantify long-run growth; invariant measures describe occupancy of activation fans; and Navier--Stokes-inspired ``thought-fluid'' regularization constrains continuous Graph-of-Thought trajectories in embedding space.
+Activation itineraries define symbolic dynamics on cell complexes; max-plus and subadditive cocycles quantify long-run growth; invariant measures describe occupancy of activation fans; and Navier--Stokes-inspired "thought-fluid" regularization constrains continuous Graph-of-Thought trajectories in embedding space.
 The reward structure is integrated with *hybrid continuous-discrete GFlowNets*: graph construction trajectories and continuous reasoning trajectories are both sampled with probability proportional to multiobjective rewards that favor high-quality solutions subject to explicit resource constraints.
 We also show how recent activation-steering ideas, exemplified by the ``Assistant Axis,'' can be lifted to quiver-local tropical steering atlases that regulate both instantaneous embedding updates and long-run ergodic occupancy of activation regions.
 
